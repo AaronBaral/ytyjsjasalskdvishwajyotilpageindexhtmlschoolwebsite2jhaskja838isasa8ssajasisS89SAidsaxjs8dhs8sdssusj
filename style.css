@@ -1,0 +1,13 @@
+#myNavbar{
+    position: sticky;
+    top:0;
+    z-index:99999;
+
+}
+
+.Video{
+    width:100%;
+    height: 500px;
+    border: none;
+
+}
